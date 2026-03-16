@@ -4,7 +4,7 @@
 
 ### Software Engineer · iOS (SwiftUI) + Full-Stack
 
-**📍 Houston, Texas | Open to Work**
+**📍 United States | Open to Work**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruvipatel.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvipatel2623)
