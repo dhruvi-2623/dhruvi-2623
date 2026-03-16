@@ -6,7 +6,7 @@
 
 **📍 Houston, Texas | Open to Work**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruvipatel.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvipatel2623)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvipatel2623@gmail.com)
 
@@ -26,6 +26,6 @@ Currently working at **BigBlue Technologies** as a Developer Intern, building iO
 
 <div align="center">
 
-**Let's connect!** [Email](mailto:dhruvipatel2623@gmail.com) · [LinkedIn](https://linkedin.com/in/dhruvipatel2623) · [Portfolio](https://your-portfolio-url.com)
+**Let's connect!** [Email](mailto:dhruvipatel2623@gmail.com) · [LinkedIn](https://linkedin.com/in/dhruvipatel2623) · [Portfolio](https://dhruvipatel.onrender.com/)
 
 </div>
